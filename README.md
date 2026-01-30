@@ -24,4 +24,4 @@ This program does a distribution analysis on a list of numbers. It returns a dic
 This file contains a function that converts seconds since midnight into hours, minutes, seconds, and AM/PM format (XX:XX:XX AM/PM)
 
 # Question_8.py
-This program uses the pandas library in order to create a Data Frame from given data. A new colum is calculated from exissting columns and the final Data Frame is printed
+This program uses the pandas library in order to create a Data Frame from given data. A new column is calculated from existing columns and the final Data Frame is printed
